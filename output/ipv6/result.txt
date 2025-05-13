@@ -3,8 +3,8 @@ PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8$本地源
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$本地源
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2$订阅源
 翡翠台,https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8$订阅源
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt$订阅源
 明珠台,https://live.tvfix.org/live/pearl/index.m3u8$订阅源
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt$订阅源
 美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 TVB Plus,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8$订阅源
@@ -18,15 +18,15 @@ TVB J1,https://cdn3.163189.xyz/live/j1/stream.m3u8$本地源
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8$订阅源
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8$订阅源
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8$订阅源
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8$订阅源
 龙华戏剧,https://cdn3.132.us.kg/live/lhxj/stream.m3u8$订阅源
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8$订阅源
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•IPV4『线路41』
-凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx$订阅源
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8$订阅源
-RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8$订阅源
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32$订阅源
+RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8$订阅源
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC$订阅源
 
 ☘️广东频道,#genre#
@@ -35,7 +35,6 @@ Astro AEC,http://php.jdshipin.com/smt.php?id=AEC$订阅源
 广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/c40c8d3679704d729f3254ca2b98abfe.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$订阅源
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
@@ -62,11 +61,10 @@ CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📡卫视频道,#genre#
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$订阅源
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
+浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
-广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8$订阅源
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
@@ -74,4 +72,4 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 
 🕘️更新时间,#genre#
-2025-05-13 19:04:01,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8$本地源
+2025-05-14 06:55:52,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8$本地源
