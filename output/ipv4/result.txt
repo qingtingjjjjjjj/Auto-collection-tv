@@ -1,8 +1,8 @@
 🌊港·澳·台,#genre#
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$订阅源
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
-TVB Plus,http://60.248.77.83/sat/hk031.flv$订阅源
 TVB Plus,http://60.248.77.83/sat/hk011.flv$订阅源
+TVB Plus,http://60.248.77.83/sat/hk031.flv$订阅源
 无线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn$订阅源
 龙华电影,https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie$订阅源
 龙华偶像,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaidol_twn$订阅源
@@ -11,17 +11,18 @@ TVB Plus,http://60.248.77.83/sat/hk011.flv$订阅源
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192$订阅源
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$订阅源
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$订阅源
-凤凰资讯,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025$订阅源
+凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191$订阅源
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$订阅源
 RTHK32,http://beishan008.asuscomm.com:8892/bysid/32.m3u8$订阅源
 RTHK32,http://bziyunshao.synology.me:8892/bysid/32$订阅源
+东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源
 东森电影,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie$订阅源
 
 ☘️广东频道,#genre#
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东珠江,http://119.32.12.17:2901/udp/224.1.100.23:11111$订阅源
 广东珠江,https://live.ximalaya.com/radio-first-page-app/live/252/64.m3u8?transcode=ts$订阅源
+广东珠江,http://live.xmcdn.com/live/252/64.m3u8$订阅源
 广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/c40c8d3679704d729f3254ca2b98abfe.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
@@ -56,18 +57,17 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8$订阅源
 东森洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvwestern$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://wouu.net:9977/udp/239.93.0.184:5140$订阅源
 CCTV-1,http://119.32.12.17:2901/udp/224.1.100.90:11111$订阅源
+CCTV-1,http://wouu.net:9977/udp/239.93.0.184:5140$订阅源
 CCTV-1,http://59.188.94.126:35455/bptv/10000100000000050000000003248324.m3u8$订阅源
-CCTV-2,http://123.149.160.189:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-2,http://59.188.94.126:35455/bptv/10000100000000050000000003407051.m3u8$订阅源
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000$订阅源
-CCTV-5,http://1b6467f415.iok.la:9931/tsfile/live/1025_1.m3u8$订阅源
-CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004$订阅源
 CCTV-5+,http://119.32.12.17:2901/udp/224.1.100.25:11111$订阅源
+CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004$订阅源
 CCTV-5+,http://59.188.94.126:35455/bptv/10000100000000050000000003248330.m3u8$订阅源
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111$订阅源
+CCTV-6,http://222.134.245.16:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104$订阅源
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111$订阅源
@@ -75,33 +75,35 @@ CCTV-9,http://59.188.94.126:35455/bptv/10000100000000050000000005002664.m3u8$订
 CCTV-11,http://119.32.12.17:2901/udp/224.1.100.44:11111$订阅源
 CCTV-12,http://119.32.12.17:2901/udp/224.1.100.78:11111$订阅源
 CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111$订阅源
+CCTV-14,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264$订阅源
 CCTV-16,http://59.188.94.126:35455/bptv/10000100000000050000000004972559.m3u8$订阅源
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a$订阅源
 北京卫视,http://wouu.net:9977/udp/239.93.0.180:5140$订阅源
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564$订阅源
 安徽卫视,http://wouu.net:9977/udp/239.93.1.106:5140$订阅源
-安徽卫视,http://119.32.12.17:2901/udp/224.1.100.66:11111$订阅源
 重庆卫视,http://wouu.net:9977/udp/239.93.1.107:5140$订阅源
 东方卫视,http://119.32.12.17:2901/udp/224.1.100.48:11111$订阅源
 东方卫视,http://wouu.net:9977/udp/239.93.0.123:5140$订阅源
-东南卫视,http://wouu.net:9977/udp/239.93.0.42:5140$订阅源
 东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111$订阅源
+东南卫视,http://wouu.net:9977/udp/239.93.0.42:5140$订阅源
 甘肃卫视,http://wouu.net:9977/udp/239.93.0.81:5140$订阅源
-广西卫视,http://119.32.12.17:2901/udp/224.1.100.110:11111$订阅源
 广西卫视,http://wouu.net:9977/udp/239.93.42.46:5140$订阅源
+广西卫视,http://119.32.12.17:2901/udp/224.1.100.110:11111$订阅源
 贵州卫视,http://119.32.12.17:2901/udp/224.1.100.58:11111$订阅源
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,http://zqh2333.top:2222/rtp/239.93.55.45:5140$订阅源
 江西卫视,http://wouu.net:9977/udp/239.93.0.134:5140$订阅源
-辽宁卫视,http://119.32.12.17:2901/udp/224.1.100.92:11111$订阅源
+内蒙古卫视,http://222.134.245.16:9901/tsfile/live/0109_1.m3u8$订阅源
+青海卫视,http://222.134.245.16:9901/tsfile/live/0140_1.m3u8$订阅源
 山东卫视,http://119.32.12.17:2901/udp/224.1.100.50:11111$订阅源
 山东卫视,http://wouu.net:9977/udp/239.93.0.168:5140$订阅源
+陕西卫视,http://112.132.10.54:9901/tsfile/live/0136_1.m3u8$订阅源
 四川卫视,http://wouu.net:9977/udp/239.93.0.169:5140$订阅源
 三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000$订阅源
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0$订阅源
 
 🕘️更新时间,#genre#
-2025-05-16 18:53:03,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$订阅源
+2025-05-17 06:46:48,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$订阅源

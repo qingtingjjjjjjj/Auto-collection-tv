@@ -6,12 +6,12 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8$订阅源
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8$订阅源
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8$订阅源
-龙华戏剧,https://cdn3.132.us.kg/live/lhxj/stream.m3u8$订阅源
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8$订阅源
+龙华戏剧,https://cdn3.132.us.kg/live/lhxj/stream.m3u8$订阅源
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•IPV4『线路41』
-凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$订阅源
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源
+凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx$订阅源
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8$订阅源
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32$订阅源
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8$订阅源
@@ -56,6 +56,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
+三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=c509d0ea1747156492$订阅源
 
 🕘️更新时间,#genre#
-2025-05-16 18:53:03,http://php.jdshipin.com/TVOD/iptv.php?id=mzt$订阅源
+2025-05-17 06:46:48,http://php.jdshipin.com/TVOD/iptv.php?id=mzt$订阅源
