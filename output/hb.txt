@@ -120,5 +120,6 @@ CCTV-中学生HD,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-ZXS-HD/7999000/7999
 财富天下HD,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CFTX-HD/7999000/7999000.m3u8
 老故事HD,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-LGS-HD/7999000/7999000.m3u8
 生活时尚HD,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-SHSS-HD/7999000/7999000.m3u8
-女性时尚HD,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-NXSS-HD/7999000/7999000.m3u8
 优优宝贝HD,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-YYBB-HD/7999000/7999000.m3u8
+女性时尚HD,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-NXSS-HD/7999000/7999000.m3u8
+
