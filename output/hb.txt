@@ -19,8 +19,8 @@ CCTV-16,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CCTV-16HD/7999000/7999000.m3
 CCTV-17,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CCTV-17HD/7999000/7999000.m3u8
 CGTN,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CGTN-HD/7999000/7999000.m3u8
 CGTN法语,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CGTNFY-HD/7999000/7999000.m3u8
-CGTN西班牙语,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CGTNXBYY-HD/7999000/7999000.m3u8
 CGTN俄语,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CGTNEY-HD/7999000/7999000.m3u8
+CGTN西班牙语,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CGTNXBYY-HD/7999000/7999000.m3u8
 CGTN阿拉伯语,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CGTNALBY-HD/7999000/7999000.m3u8
 卫视频道,#genre#
 广东卫视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-GDWS-HD/7999000/7999000.m3u8
@@ -51,6 +51,7 @@ CGTN阿拉伯语,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CGTNALBY-HD/7999000
 陕西卫视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-SHXWS-SD/7999000/7999000.m3u8
 宁夏卫视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-NXWS-SD/7999000/7999000.m3u8
 内蒙古卫视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-NMGWS-SD/7999000/7999000.m3u8
+海南卫视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HANWS-SD/7999000/7999000.m3u8
 新疆卫视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-XJWS-SD/7999000/7999000.m3u8
 西藏卫视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-XZWS-SD/7999000/7999000.m3u8
 兵团卫视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-BTWS-SD/7999000/7999000.m3u8
@@ -60,17 +61,17 @@ CGTN阿拉伯语,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CGTNALBY-HD/7999000
 河北都市,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HEBDS-HD/7999000/7999000.m3u8
 河北影视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HEBYS-HD/7999000/7999000.m3u8
 河北公共,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HEBGG-HD/7999000/7999000.m3u8
+河北少儿科教,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HEBSEKJ-HD/7999000/7999000.m3u8
 河北收视指南,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HEBSSZN-HD/7999000/7999000.m3u8
 河北杂技,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HEBZJ-HD/7999000/7999000.m3u8
-河北少儿科教,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HEBSEKJ-HD/7999000/7999000.m3u8
 唐山新闻,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-TSXWZH-HD/7999000/7999000.m3u8
 唐山生活,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-TSSHFW-HD/7999000/7999000.m3u8
 唐山公共,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-TSGG-HD/7999000/7999000.m3u8
 电影频道,#genre#
+CHC影迷电影,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HCGQ-HD/7999000/7999000.m3u8
 CHC动作电影,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-DZDY-HD/7999000/7999000.m3u8
 CHC家庭影院,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-JTYY-HD/7999000/7999000.m3u8
 都市剧场,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-DSJC-HD/7999000/7999000.m3u8
-华诚高清,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HCGQ-HD/7999000/7999000.m3u8
 唐山影视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-TSYSHD/7999000/7999000.m3u8
 重温经典,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CWJD-HD/7999000/7999000.m3u8
 风云剧场,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-FYJC-HD/7999000/7999000.m3u8
@@ -87,7 +88,6 @@ CHC家庭影院,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-JTYY-HD/7999000/7999
 北京纪实,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-JSKJ-HD/7999000/7999000.m3u8
 世界地理,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-SJDL-HD/7999000/7999000.m3u8
 环球旅游,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HQLY-HD/7999000/7999000.m3u8
-海南旅游,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HANWS-SD/7999000/7999000.m3u8
 发现之旅,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-FXZL-HD/7999000/7999000.m3u8
 环球奇观,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HQQG-HD/7999000/7999000.m3u8
 生态环境,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-STHJ-HD/7999000/7999000.m3u8
@@ -105,9 +105,6 @@ CHC家庭影院,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-JTYY-HD/7999000/7999
 快乐垂钓,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-KLCD-HD/7999000/7999000.m3u8
 四海钓鱼,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-SHDY-HD/7999000/7999000.m3u8
 武术世界,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-WSSJ-HD/7999000/7999000.m3u8
-CCTV-中学生,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-ZXS-HD/7999000/7999000.m3u8
-中国教育-1,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CETV1-HD/7999000/7999000.m3u8
-中国教育-4,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CETV4-HD/7999000/7999000.m3u8
 山东教育,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-SDJY-HD/7999000/7999000.m3u8
 早期教育,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-ZQJY-HD/7999000/7999000.m3u8
 国学,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-GX-HD/7999000/7999000.m3u8
