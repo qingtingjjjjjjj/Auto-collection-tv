@@ -55,7 +55,7 @@ CGTN阿拉伯语,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CGTNALBY-HD/7999000
 新疆卫视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-XJWS-SD/7999000/7999000.m3u8
 西藏卫视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-XZWS-SD/7999000/7999000.m3u8
 兵团卫视,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-BTWS-SD/7999000/7999000.m3u8
-河北,#genre#
+河北本地,#genre#
 河北农民,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HEBNM-HD/7999000/7999000.m3u8
 河北经济,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HEBJJ-HD/7999000/7999000.m3u8
 河北都市,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-HEBDS-HD/7999000/7999000.m3u8
