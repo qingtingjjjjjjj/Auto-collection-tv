@@ -1,11 +1,9 @@
 港台,#genre#
+翡翠台,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
-翡翠台,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
 PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
