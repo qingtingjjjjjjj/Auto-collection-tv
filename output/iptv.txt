@@ -7,14 +7,10 @@
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
 PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
-明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,https://live.tvfix.org/live/pearl/index.m3u8
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
+明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
