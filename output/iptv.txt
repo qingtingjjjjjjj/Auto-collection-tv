@@ -44,7 +44,7 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/st
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
+8TV,https://cdn6.163189.xyz/live/8tv/stream.m3u8
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
