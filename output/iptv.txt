@@ -5,26 +5,14 @@
 PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,https://live.tvfix.org/live/inews/index.m3u8
-娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVBJ2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBJ2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 TVBJ2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 TVBPlus,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
-凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
-凤凰中文,https://tv.iill.top/phenix/fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-凤凰香港,https://tv.iill.top/phenix/fhhk
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
@@ -39,11 +27,23 @@ RTHK33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
-华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰中文,https://tv.iill.top/phenix/fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰香港,https://tv.iill.top/phenix/fhhk
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 8TV,https://cdn6.163189.xyz/live/8tv/stream.m3u8
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
@@ -51,7 +51,7 @@ Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-亚洲新闻,https://live.tvfix.org/live/newsasia/index.m3u8
+CNA,https://live.tvfix.org/live/newsasia/index.m3u8
 新传媒5频道,https://cdn6.163189.xyz/live/ch5/stream.m3u8
 新传媒8频道,https://cdn6.163189.xyz/live/ch8/stream.m3u8
 新传媒U频道,https://cdn6.163189.xyz/live/chu/stream.m3u8
