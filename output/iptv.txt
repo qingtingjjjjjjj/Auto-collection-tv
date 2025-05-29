@@ -32,7 +32,6 @@ TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
-凤凰中文,https://tv.iill.top/phenix/fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
