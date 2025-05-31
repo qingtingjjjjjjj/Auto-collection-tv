@@ -67,9 +67,6 @@ TVBS新闻,https://live.tvfix.org/live/tvbsnews/index.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-Eleven体育,rtmp://f13h.mine.nu/sat/tv731
-Eleven体育1,rtmp://f13h.mine.nu/sat/tv741
-
 NHK,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
 广东,#genre#
