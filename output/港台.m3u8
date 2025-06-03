@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png",凤凰香港
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png",凤凰香港
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png",凤凰资讯
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png",凤凰资讯
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",凤凰中文
+http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png",Love Nature HD
+https://live.tvfix.org/live/lovenature/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png",无线新闻台
+https://live.tvfix.org/live/inews/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png",美亚电影台
+https://live.tvfix.org/live/mydy/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.v1.mk/logo/TVBS亚洲台.png",TVBS亚洲台
+https://live.tvfix.org/live/tvbs/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png",娱乐新闻台
+https://live.tvfix.org/live/enews/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.v1.mk/logo/无线新闻.png",无线新闻
+https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",凤凰中文
+https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/美亚电影.png",美亚电影
+https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png",翡翠台
+https://live.tvfix.org/live/jade/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",凤凰中文
+https://live.tvfix.org/live/fhzw/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/天映经典.png",天映经典
+https://live.tvfix.org/live/tyjd/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png",凤凰香港
+https://live.tvfix.org/live/fwxg/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png",凤凰资讯
+https://live.tvfix.org/live/fwzx/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png",凤凰咨询
+https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.v1.mk/logo/CCTV1.png",CCTV-1高清
+https://live.tvfix.org/live/cctv1hd/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png",ROCK Action
+https://live.tvfix.org/live/rockac/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/18台.png",18台赛马频道
+https://live.tvfix.org/live/c18/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png",tvbs新闻
+https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/中国电影.png",中国电影频道
+https://live.tvfix.org/live/cmc/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png",东方卫视高清
+https://live.tvfix.org/live/dfhd/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/FASHIONONE.png",FashionBox
+https://live.tvfix.org/live/fashion/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png",翡翠台
+https://live.tvfix.org/live/jade/3/v700000/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.v1.mk/logo/明珠台.png",明珠台
+https://live.tvfix.org/live/pearl/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.v1.mk/logo/tvbplus.png",TVB Plus
+https://live.tvfix.org/live/tvbplus/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/093471812276a5697e0cf3504c3ce9ea.png",18赛马
+https://live.tvfix.org/live/c18/4/v200000/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.v1.mk/logo/tvbplus.png",tvbplus
+https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/NickJr.png",Nick Jr
+https://live.tvfix.org/live/nickjr/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/ALL THE K-POP.png",popc
+https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/ALL THE K-POP.png",PopC
+https://live.tvfix.org/live/popc/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/BLUE ANT EXTREME.png",Trekker
+https://live.tvfix.org/live/trekker/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/MEZZOLIVEHD.png",Mezzo Live HD
+https://live.tvfix.org/live/mezzon/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png",凤凰香港
+https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/天映经典.png",天映经典
+https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/深圳众创.png",創世頻道
+https://live.tvfix.org/live/chuangshi/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/CLASSIC ROCK.png",ROCK综艺娱乐
+https://live.tvfix.org/live/rockzy/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png",娱乐新闻
+https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.v1.mk/logo/cgtn纪录.png",CGTN纪录高清
+https://live.tvfix.org/live/cgtndochd/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png",无线亚洲
+https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/NICKELODEON.png",Nickelodeon
+https://live.tvfix.org/live/niko/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png",SUPER Kids Channel
+https://live.tvfix.org/live/kid/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.v1.mk/logo/cgtn.png",CGTN高清
+https://live.tvfix.org/live/cgtnhd/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.v1.mk/logo/明珠台.png",明珠台
+https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/ASIAZONGHE.png",ZooMoo
+https://live.tvfix.org/live/zoo/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/kix.png",KIX
+https://live.tvfix.org/live/kix/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/20240102074128324TEMPIMAGE.png",28台AI智慧赛马频道
+https://live.tvfix.org/live/c28/index.m3u8
