@@ -2,6 +2,7 @@
 翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3 $EXO
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3 $IJK
 翡翠台,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8 $IJK
+翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt $粤语/EXO
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8 $英语/IJK
 无线新闻,https://live.tvfix.org/live/inews/index.m3u8 $EXO
