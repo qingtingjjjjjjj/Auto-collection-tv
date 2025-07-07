@@ -1,4 +1,8 @@
 港台,#genre#
+POpc,webview://http://surl.wsmywlkj.top/JsJCL
+翡翠台,webview://http://surl.wsmywlkj.top/uXuZR
+中天新闻,webview://http://surl.wsmywlkj.top/bfyBi
+寰宇新闻,webview://http://surl.wsmywlkj.top/0X0WW
 翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3 $EXO
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3 $IJK
 翡翠台,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8 $IJK
