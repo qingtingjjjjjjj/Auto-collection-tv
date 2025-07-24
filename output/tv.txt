@@ -28,6 +28,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
 珠海综合,http://publive.zhrct.com/zhtv1/zhtv1.m3u8?auth_key=1697183630-0-0-237458bc86c8bc697f92b9525a090953
 深圳卫视,rtsp://183.59.156.166/PLTV/88888905/224/3221227267/10000100000000060000000001141334_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EfbhdUwU9GLwbpgfRrxIQSg%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000000000000050000000000000197%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000001141334_0%2CEND&GuardEncType=2
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
+深圳卫视,http://124.128.73.58:9901/tsfile/live/0126_1.m3u8?key=txiptv$订阅源
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
@@ -45,6 +46,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai$订阅源
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000$订阅源
 CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004$订阅源
+CCTV-10,http://124.128.73.58:9901/tsfile/live/0010_1.m3u8?key=txiptv$订阅源
 CETV2,rtsp://183.59.156.166/PLTV/88888905/224/3221230017/10000100000000060000000010698698_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EFx5GVmxaIH3nx0PiYrtiUA%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000006000000052020021899000001%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000010698698_0%2CEND&GuardEncType=2
 CETV4,rtsp://183.59.156.166/PLTV/88888905/224/3221230118/582786019.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EgQ4DsSuGon9zSjD_E4rP-w%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000006000000052023013099000001%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C582786019%2CEND&GuardEncType=2
 
@@ -96,4 +98,4 @@ CETV4,rtsp://183.59.156.166/PLTV/88888905/224/3221230118/582786019.smil?rrsip=12
 云南卫视,rtsp://183.59.156.166/PLTV/88888905/224/3221230270/488774604.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ESh-bENWbEYTKKF-bBH90nw%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000006000000052021052899000001%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C488774604%2CEND&GuardEncType=2
 
 🕘️更新时间,#genre#
-2025-07-24 18:32:18,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
+2025-07-25 06:27:17,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
