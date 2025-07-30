@@ -3,8 +3,6 @@
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
-#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
@@ -73,14 +71,48 @@ http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
 #EXTINF:-1 tvg-name="湛江公共" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/湛江公共.png" group-title="☘️广东频道",湛江公共
 http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+http://atcq62.3950.cn:35455/mgtv/644368714.m3u8$订阅源
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+http://atcq62.3950.cn:35455/mgtv/644368373.m3u8$订阅源
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
 rtsp://183.59.156.166/PLTV/88888905/224/3221227204/10000100000000060000000000987156_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EZv6CkKPOumr2hnxF8rjwZw%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000000000000050000000000000109%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000987156_0%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225923/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://omnix.cn:4000/udp/225.1.8.89:8000$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://omnix.cn:4000/udp/225.1.8.20:8004$订阅源
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225815/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225816/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225817/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225933/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227125/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
 rtsp://183.59.156.166/PLTV/88888905/224/3221230017/10000100000000060000000010698698_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EFx5GVmxaIH3nx0PiYrtiUA%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000006000000052020021899000001%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000010698698_0%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
@@ -91,6 +123,8 @@ rtsp://183.59.156.166/PLTV/88888905/224/3221227218/10000100000000060000000000988
 rtsp://183.59.156.166/PLTV/88888905/224/3221227027/10000100000000060000000000698853_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E8ZhOnBMhjXM3P0svIU7PlQ%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000000000000050000000000000198%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000698853_0%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 rtsp://183.59.156.166/PLTV/88888905/224/3221227296/10000100000000060000000001141335_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EHlLaDdgPEiLg9rydSrBiUg%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000000000000050000000000000265%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000001141335_0%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://1b6467f415.iok.la:9931/tsfile/live/1059_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 rtsp://183.59.156.166/PLTV/88888905/224/3221227018/10000100000000060000000000698843_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ENCgwlxyaAwPTFTz9-wFEHg%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000000000000050000000000000194%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000698843_0%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
@@ -175,5 +209,5 @@ http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-XJWS-SD/7999000/7999000.m3u8
 rtsp://183.59.156.166/PLTV/88888905/224/3221227084/10000100000000060000000000937737_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E0jHGLU4wLtQWWQdPoUd3pQ%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000000000000050000000000000097%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000937737_0%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
 rtsp://183.59.156.166/PLTV/88888905/224/3221230270/488774604.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ESh-bENWbEYTKKF-bBH90nw%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000006000000052021052899000001%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C488774604%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="PopC" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🕘️更新时间",2025-07-30 06:32:16
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="🕘️更新时间",2025-07-30 18:57:45
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
