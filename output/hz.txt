@@ -123,9 +123,9 @@ TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 广州南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
-番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
 河源综合,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151
@@ -133,16 +133,6 @@ TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199
 湛江综合,http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
 湛江公共,http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
-珠海综合,http://publive.zhrct.com/zhtv1/zhtv1.m3u8?auth_key=1697183630-0-0-237458bc86c8bc697f92b9525a090953
-佛山综合,http://125.89.163.44:8888/udp/239.253.43.57:5146
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山公共,http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111
-佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
-佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
-佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
 
 央卫,#genre#
 CCTV1,https://live.sxrtv.com/iptv/cctv1.flv
