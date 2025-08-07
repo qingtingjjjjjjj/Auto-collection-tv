@@ -1,13 +1,16 @@
 港台,#genre#
 翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3 $EXO
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3 $IJK
-翡翠台,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8 $IJK
-翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt $粤语/EXO
+明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8 $英语/IJK
 无线新闻,https://live.tvfix.org/live/inews/index.m3u8 $EXO
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt $IJK
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn $IJK
+无线新闻,http://r.jdshipin.com/CkuBd
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1 $IJK
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2 $IJK
 TVB J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2 $IJK
@@ -15,20 +18,28 @@ TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn $IJK
 TVB Plus,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade $IJK
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali $IJK
+华丽翡翠台,http://r.jdshipin.com/thuYX
+无线华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment $IJK
 千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc $IJK
 千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic $IJK
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,http://r.jdshipin.com/sXuuD
+TVB星河,http://r.jdshipin.com/Voac4
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw 
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8 $EXO
-凤凰中文,http://cdn.jdshipin.com/jisu.php?id=fhzw 
-凤凰资讯,http://cdn.jdshipin.com/jisu.php?id=fhzx 
+凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx $IJK
-凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8 $IJK
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8 $IJK
-凤凰香港,http://cdn.jdshipin.com/jisu.php?id=fhxg
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰卫视电影台,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8 $EXO
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8 $EXO
-龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8 $IJK
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8 $IJK
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8 $IJK
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8 $IJK
@@ -51,17 +62,34 @@ HOYTV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2 $EXO
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2 $EXO
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv $EXO
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn $EXO  
+ViuTV,http://r.jdshipin.com/vSJvl
 ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn $EXO
 CNA,https://live.tvfix.org/live/newsasia/index.m3u8 $EXO
-Channel 5,https://cdn6.163189.xyz/live/ch5/stream.m3u8 $EXO
-Channel 8,https://cdn6.163189.xyz/live/ch8/stream.m3u8 $EXO
-Channel U,https://cdn6.163189.xyz/live/chu/stream.m3u8 $IJK
+CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8 $EXO
+CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8 $EXO
+CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8 $IJK
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC $EXO
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod $EXO
 Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd $EXO
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia $EXO
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee $EXO
 Animax,https://live.tvfix.org/live/animax/index.m3u8 $EXO
+
+TVBS,https://live.tvfix.org/live/tvbs/index.m3u8 $EXO
+TVBS新闻,https://live.tvfix.org/live/tvbsnews/index.m3u8 $EXO
+中视,rtmp://f13h.mine.nu/sat/tv091 $EXO
+华视,rtmp://f13h.mine.nu/sat/tv111 $EXO
+民视,rtmp://f13h.mine.nu/sat/tv051 $EXO
+台视,rtmp://f13h.mine.nu/sat/tv071 $EXO
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 $EXO
+
+纬来日本,rtmp://f13h.mine.nu/sat/tv771 $EXO
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701 $EXO
+纬来体育,rtmp://f13h.mine.nu/sat/tv721 $EXO
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视澳门,http://r.jdshipin.com/n2YZI
+NHK,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8 $EXO
+
 
 AKTV,#genre#
 Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
@@ -125,6 +153,8 @@ TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 广东,#genre#
+广东珠江,http://r.jdshipin.com/sE5vO
+广东体育,http://r.jdshipin.com/LiYdg
 广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/ce834303bb1a4459a3ea8c4c01d3ae84.m3u8
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
