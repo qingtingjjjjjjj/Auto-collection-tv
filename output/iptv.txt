@@ -1,13 +1,16 @@
 港台,#genre#
 翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3 $EXO
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3 $IJK
-翡翠台,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8 $IJK
-翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt $粤语/EXO
+明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8 $英语/IJK
 无线新闻,https://live.tvfix.org/live/inews/index.m3u8 $EXO
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt $IJK
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn $IJK
+无线新闻,http://r.jdshipin.com/CkuBd
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1 $IJK
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2 $IJK
 TVB J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2 $IJK
@@ -15,20 +18,28 @@ TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn $IJK
 TVB Plus,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade $IJK
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali $IJK
+华丽翡翠台,http://r.jdshipin.com/thuYX
+无线华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment $IJK
 千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc $IJK
 千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic $IJK
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,http://r.jdshipin.com/sXuuD
+TVB星河,http://r.jdshipin.com/Voac4
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw 
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8 $EXO
-凤凰中文,http://cdn.jdshipin.com/jisu.php?id=fhzw 
-凤凰资讯,http://cdn.jdshipin.com/jisu.php?id=fhzx 
+凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx $IJK
-凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8 $IJK
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8 $IJK
-凤凰香港,http://cdn.jdshipin.com/jisu.php?id=fhxg
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰卫视电影台,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8 $EXO
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8 $EXO
-龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8 $IJK
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8 $IJK
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8 $IJK
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8 $IJK
@@ -51,6 +62,7 @@ HOYTV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2 $EXO
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2 $EXO
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv $EXO
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn $EXO  
+ViuTV,http://r.jdshipin.com/vSJvl
 ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn $EXO
 CNA,https://live.tvfix.org/live/newsasia/index.m3u8 $EXO
 CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8 $EXO
@@ -74,6 +86,8 @@ TVBS新闻,https://live.tvfix.org/live/tvbsnews/index.m3u8 $EXO
 纬来日本,rtmp://f13h.mine.nu/sat/tv771 $EXO
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701 $EXO
 纬来体育,rtmp://f13h.mine.nu/sat/tv721 $EXO
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视澳门,http://r.jdshipin.com/n2YZI
 NHK,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8 $EXO
 
 AKTV,#genre#
@@ -305,5 +319,6 @@ IPTV野外,rtsp://183.59.156.166/PLTV/88888905/224/3221227190/100001000000000600
 收视指南,rtsp://183.59.156.166/PLTV/88888905/224/3221227222/10000100000000060000000000990034_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E0fTlgpMlKD02lG5m2iTlkg%7EH0w1NaKPRp_73RBEfbZ0vktclXk_R_raDd4JO8ohAxUCWKhP7OGw8GsUngBQt_X-hy6p13IxcBf6rGJf-wn_E8aD58qpCh-8C6KtWST1vjo%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250803102145%2C28589592%2C10.91.45.186%2C20250803102145%2C02000000000000050000000000000110%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000990034_0%2CEND&GuardEncType=2
 金鹰纪实高清,rtsp://183.59.156.166/PLTV/88888905/224/3221227916/10000100000000060000000006078790_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Epzr3FsHXBi_PdUWY342Qzg%7EH0w1NaKPRp_73RBEfbZ0vktclXk_R_raDd4JO8ohAxUCWKhP7OGw8GsUngBQt_X-hy6p13IxcBf6rGJf-wn_E8aD58qpCh-8C6KtWST1vjo%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250803102145%2C28589592%2C10.91.45.186%2C20250803102145%2C02000004000000052016021800000001%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000006078790_0%2CEND&GuardEncType=2
 茶,rtsp://183.59.156.166/PLTV/88888905/224/3221229888/10000100000000060000000010323146_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EBZ7j5n996BTgmoB7olNDVw%7EH0w1NaKPRp_73RBEfbZ0vktclXk_R_raDd4JO8ohAxUCWKhP7OGw8GsUngBQt_X-hy6p13IxcBf6rGJf-wn_E8aD58qpCh-8C6KtWST1vjo%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250803102145%2C28589592%2C10.91.45.186%2C20250803102145%2C02000006000000052019090499000005%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000010323146_0%2CEND&GuardEncType=2
+
 
 
