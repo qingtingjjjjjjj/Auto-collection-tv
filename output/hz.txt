@@ -138,7 +138,6 @@ MagellanTV頻道,http://s1.an94tv.cfd/taiwan/magellantv/AKTV.m3u8
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
 广州南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
