@@ -9,6 +9,8 @@
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+NOW新闻台,http://bxtv.3a.ink/api.php?id=now
+NOW新闻台,https://cdn.946985.qzz.io/live/now/stream.m3u8
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
@@ -41,7 +43,7 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰卫视电影台,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
