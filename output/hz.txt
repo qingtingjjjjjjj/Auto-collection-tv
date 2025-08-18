@@ -147,8 +147,10 @@ unifi Sports 1,http://s1.an94tv.cfd/astro/unifisports1/AKTV.m3u8
 
 广东,#genre#
 广东卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=gdws
+广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://bxtv.3a.ink/api.php?id=gdty
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/ce834303bb1a4459a3ea8c4c01d3ae84.m3u8
