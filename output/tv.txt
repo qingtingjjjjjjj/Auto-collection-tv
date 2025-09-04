@@ -1,6 +1,7 @@
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$订阅源
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$订阅源
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$订阅源
@@ -43,7 +44,24 @@ CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=eda0112e
 经典电影,rtsp://183.59.156.166/PLTV/88888905/224/3221227204/10000100000000060000000000987156_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EZv6CkKPOumr2hnxF8rjwZw%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000000000000050000000000000109%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000987156_0%2CEND&GuardEncType=2
 
 📺央视频道,#genre#
+CCTV-1,https://cc06.tv12.xyz/1.m3u8$订阅源
+CCTV-2,https://cc06.tv12.xyz/2.m3u8$订阅源
+CCTV-3,https://cc06.tv12.xyz/3.m3u8$订阅源
+CCTV-4,https://cc06.tv12.xyz/4.m3u8$订阅源
+CCTV-5,https://cc06.tv12.xyz/5.m3u8$订阅源
+CCTV-5+,https://cc06.tv12.xyz/6.m3u8$订阅源
+CCTV-6,https://cc06.tv12.xyz/7.m3u8$订阅源
+CCTV-7,https://cc06.tv12.xyz/8.m3u8$订阅源
+CCTV-8,https://cc06.tv12.xyz/9.m3u8$订阅源
+CCTV-9,https://cc06.tv12.xyz/10.m3u8$订阅源
+CCTV-10,https://cc06.tv12.xyz/11.m3u8$订阅源
+CCTV-11,https://cc06.tv12.xyz/12.m3u8$订阅源
+CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
+CCTV-13,https://cc06.tv12.xyz/14.m3u8$订阅源
+CCTV-14,https://cc06.tv12.xyz/15.m3u8$订阅源
+CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1$订阅源
+CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 CETV1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源
 CETV2,rtsp://183.59.156.166/PLTV/88888905/224/3221230017/10000100000000060000000010698698_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EFx5GVmxaIH3nx0PiYrtiUA%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000006000000052020021899000001%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000010698698_0%2CEND&GuardEncType=2
 CETV2,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy$订阅源
@@ -98,4 +116,4 @@ CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CET
 云南卫视,rtsp://183.59.156.166/PLTV/88888905/224/3221230270/488774604.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ESh-bENWbEYTKKF-bBH90nw%7E3dFrHHAmYUFbsLTU8APvZ7zcYZneeIiAlxeUBrVUiN8CWKhP7OGw8GsUngBQt_X-FQk5WEnIDD39RkreOb73--OEzu7fe8hl6je7cIclvNY%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250516121526%2C28589592%2C10.91.44.130%2C20250516121526%2C02000006000000052021052899000001%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C488774604%2CEND&GuardEncType=2
 
 🕘️更新时间,#genre#
-2025-09-04 18:27:21,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
+2025-09-05 06:33:04,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
