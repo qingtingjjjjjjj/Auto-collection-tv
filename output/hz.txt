@@ -242,8 +242,6 @@ XO·港澳,#genre#
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-NOW新闻台,http://bxtv.3a.ink/api.php?id=now
-NOW新闻台,https://cdn.946985.qzz.io/live/now/stream.m3u8
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
