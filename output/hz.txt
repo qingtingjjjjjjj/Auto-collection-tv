@@ -1,8 +1,8 @@
 风云·港澳,#genre#
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
-凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
+凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
 凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
 凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
 TVB翡翠,http://iptv.4666888.xyz/iptv.php?id=20066
@@ -231,7 +231,7 @@ HITS,http://iptv.4666888.xyz/iptv.php?id=20283
 HISTORY历史,http://iptv.4666888.xyz/iptv.php?id=20289
 新唐人,http://iptv.4666888.xyz/iptv.php?id=20312
 
-港澳台,#genre#
+XO·港澳,#genre#
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/62WM7
@@ -303,7 +303,7 @@ ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 
-广东,#genre#
+XO·广东,#genre#
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
@@ -336,7 +336,7 @@ ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 汕尾文化生活,https://iswtv.swrtv.com/live/whshpd.m3u8
 
-央视频道,#genre#
+MG·央视,#genre#
 CCTV-1,http://go.bkpcp.top/mg/cctv1 
 CCTV-2,http://go.bkpcp.top/mg/cctv2 
 CCTV-3,http://go.bkpcp.top/mg/cctv3 
